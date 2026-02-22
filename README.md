@@ -1,0 +1,2 @@
+# -SynapseCity-AI-Live-Disaster-Intelligence-Dashboard
+SynapseCity AI is a live disaster intelligence dashboard that combines rainfall data, infrastructure vulnerability, population density, and behavioral panic signals to compute real-time flood risk scores. It visualizes risk zones and suggests the safest evacuation routes using an AI-based weighted model, enabling proactive disaster management.
